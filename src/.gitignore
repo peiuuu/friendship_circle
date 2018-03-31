@@ -1,11 +1,3 @@
 .gradle/
 .idea/
-gradle/
-gradlew
-gradlew.bat
-/src/test/test.iml
-/src/main/main.iml
-/build/
-/classes/
-/gradle/
-/target/
+
